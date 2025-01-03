@@ -1,0 +1,13 @@
+Overall_Obligation_Period,Flat_No_Or_Name,Building_No,Building_Name,Street_Name,Town,Postcode1,Unique_Property_Reference_Number_UPRN,Measure_Reference_Number,Measure_Type2,Measure_Group,Measure_Group2,Date_of_Completed_Installation,TrustmarkUniqueMeasureReference,TrustmarkLodgedCertificateID,MCSInstallationCertificationNumber,Pre_Main_Heating_Source_for_the_Property,Post_Main_Heating_Source_for_the_Property
+ECO3i,FLAT 19,15,Westfield Oaks,Westfield Avenue,HAYLING ISLAND,PO11 9AQ,1.00062E+11,SHL7093742,B_First_time_CH_cavity,Boiler,First time Central Heating,17/06/2022 00:00,85al27ZO7Nd,618315,N/A,Electric Storage Heaters,Gas boiler
+ECO3i,,60,,QUEENS ROAD,PORTSMOUTH,PO2 7NA,1775067323,SHL7093779,B_First_time_CH_cavity,Boiler,First time Central Heating,29/06/2022 00:00,86np1EmjmN2,618813,N/A,Electric Storage Heaters,Gas boiler
+ECO3 SA,,,GALVESTON,,CARMARTHEN,SA33 4HL,2.00002E+11,EON7986855,LI_lessequal100,Loft Insulation,Loft Insulation Ceiling Level Virgin,27/08/2021 00:00,d5nj9AXp6ac,436400,N/A,Oil boiler,N/A
+ECO3 SA,,,16G,ROSEFIELD STREET,Dundee,DD1 5PS,9059049417,EON7596330,B_First_time_CH_solid,Boiler,First time Central Heating,23/01/2021 00:00,33NxmxAeMBc,238173,N/A,Electric room heaters*,Gas boiler
+ECO3 SA,FLAT 3,8,,Clifton Road,Weston-Super-Mare,BS23 1BL,24086439,EON7616239,ESH_Upgrades_HHR_solid,Other Heating,Electric Storage Heater upgrade (single measure),20/01/2021 00:00,d5nb2r259nb,247770,N/A,Electric Room Heaters,N/A
+ECO3 SA,,14,,AVONBANK CRESCENT,HAMILTON,ML3 7PD,484072149,BGT7739903,CWI_0.033,Cavity wall insulation,Standard CWI,21/02/2022 00:00,55nYoPjDbB9,566825,N/A,Gas boiler,N/A
+ECO4,,,MUIRLANDS,,KIRKBY-IN-FURNESS,LA17 7TT,0,EON8843176,LI_greater100,Loft Insulation,Loft Insulation Ceiling Level Top-up,30/06/2024 00:00,P190315W8WM,P190315-1,,N/A,N/A
+ECO3 SA,,9,,WILLIAM TURNER COURT,DUMFRIES,DG1 1XP,137053530,BGT7732888,CWI_0.033,Cavity wall insulation,Standard CWI,11/02/2022 00:00,0bN0LVdMYNa,562902,N/A,Electric Storage Heaters,N/A
+ECO3 SA,,16,,DELPH HOLLOW WAY,ST. HELENS,WA9 5GP,39083023,BGT7742545,CWI_0.033,Cavity wall insulation,Standard CWI,15/02/2022 00:00,9dB7wZdoJB4,565765,N/A,Gas boiler,N/A
+ECO4,,,UPPER INSHULL,,HEREFORD,HR4 8JN,10007371910,EON8808213,IWI_solid_1.7_0.3,Solid Wall Insulation,Internal wall insulation: Solid Walls,08/05/2024 00:00,P165825LHL7,P165825-1,,N/A,N/A
+ECO4,,,UPPER RUSKO COTTAGE,,CASTLE DOUGLAS,DG7 2BP,137079539,EON8772411,IWI_solid_1.7_0.3,Solid Wall Insulation,Internal wall insulation: Solid Walls,08/04/2024 00:00,P1476703WFD,P147670-1,,N/A,N/A
+ECO4,,,FAULKNERS FOLD,,Ludlow,SY8 3QU,10032917072,SPW00470613,Solar_PV,Micro Generation,Photovoltaics,22/03/2024 00:00,P139990C3TZ,P139990-1,,Air to Water ASHP,N/A
