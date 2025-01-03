@@ -1,0 +1,4 @@
+scheme,uprn,date_of_install,measure_type,postcode,name,number,subname,streetname,townname,fulladdress,
+ECO4,Unique_Property_Reference_Number_UPRN,Date_of_Completed_Installation,Measure_Type2,Postcode1,Building_Name,Building_No,Flat_No_Or_Name,Street_Name,Town,,
+GBIS,UPRN_from_matching_process,DateOfCompletedInstallation,MeasureType,PostCode,BuildingName,BuildingNumber,FlatNameNumber,StreetName,Town,,
+BUS,UPRN,Date of completed installation,Measure type,Postcode,,,,,,Full address
